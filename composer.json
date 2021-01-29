@@ -1,0 +1,14 @@
+{
+    "name": "deveres/jquery-ui-dist",
+    "type": "library",
+    "description": "Builded jquery-ui js library with themes included",
+    "keywords": ["jquery-ui","builded","jquery-ui-themes"],
+    "homepage": "https://github.com/deveres/jquery-ui-dist",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DeVeres",
+            "email": "deveres221@gmail.com"            
+        }
+    ],
+}
